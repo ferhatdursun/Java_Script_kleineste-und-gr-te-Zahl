@@ -1,1 +1,1 @@
-# kleineste-und-gr-te-Zahl
+# kleineste-und-grösste-Zahl
